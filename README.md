@@ -1,9 +1,5 @@
-<img width="2048" height="768" alt="assetsbanner" src="https://github.com/user-attachments/assets/42d76f52-ee56-4600-8043-e615c1691f18" />
+<img width="2048" height="768" alt="banner" src="https://github.com/user-attachments/assets/7ec08f22-7822-48c3-9b45-67bd0949e9ba" />
 
-
-<div align="center">
-
-<img src="assets/banner.png" width="100%" />
 
 # Deepak Kumar Singha
 
